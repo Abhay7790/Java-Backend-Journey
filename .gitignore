@@ -1,0 +1,21 @@
+# Compiled Java files
+*.class
+
+# Serialization output
+*.ser
+
+# Eclipse files
+.classpath
+.project
+.settings/
+bin/
+
+# IntelliJ / VS Code
+.idea/
+*.iml
+.vscode/
+
+# Build folders (for Maven/Gradle later)
+target/
+build/
+out/
