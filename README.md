@@ -32,6 +32,7 @@ java Driver
 
 Or just open the folder in Eclipse / IntelliJ / VS Code and press Run.
 
+**Java version:** I wrote the early programs to work with Java 8 syntax. Later topics (Spring Boot) use JDK 17 or newer. I'll note any version-specific code in the file itself.
 ---
 
 ## Topics uploaded so far
